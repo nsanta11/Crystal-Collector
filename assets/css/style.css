@@ -1,5 +1,5 @@
-body {
-    background-color: lightblue;
+#background {
+    background-color:rgb(89, 154, 238);
 }
 
 .button-1, .button-2, .button-3, .button-4 {
@@ -17,5 +17,11 @@ body {
 }
 
 #jumbo {
-    background-color: rgb(66, 140, 238);
+    background-color: rgb(18, 73, 167);
   }
+
+#title {
+    margin-left: 100px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
