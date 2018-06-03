@@ -7,6 +7,10 @@
     height: 100px;
 }
 
+img {
+    margin: 2px;
+}
+
 .jewel {
   margin-right: 10px;
 }
@@ -20,8 +24,21 @@
     background-color: rgb(18, 73, 167);
   }
 
+#rnumber {
+    padding-bottom: 31px;
+    width: 280px;
+}
+
+#score {
+    width: 520px;
+}
+
 #title {
     margin-left: 100px;
     color: white;
     text-shadow: 2px 2px 4px #000000;
+}
+
+#wins {
+    width: 200px;
 }
